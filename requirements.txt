@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+fastapi[standard]
+uvicorn[standard]
+pydantic
+scikit-learn
+kagglehub
+streamlit
